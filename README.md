@@ -2,10 +2,7 @@
 
 Descripción
 
-Aplicando los conceptos y herramientas aprendidas hasta ahora, deberás continuar con el
-desarrollo del ejercicio “Aplicando modelado y cardinalidad en modelos de datos” visto en
-la sesión anterior. En esta ocasión deberás agregar las entidades y atributos que se solicitan
-en los requerimientos.
+Agregar las entidades y atributos que se solicitan en los requerimientos.
 
 Requerimientos
 
